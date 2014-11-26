@@ -1,0 +1,27 @@
+{
+  "name": "cordova-android-tutorial",
+  "version": "0.0.1",
+  "description": "This is a tutorial how to setup your system to create a cordova app for android including some helpful scripts",
+  "main": "checks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atd-schubert/cordova-android-tutorial.git"
+  },
+  "keywords": [
+    "tutorial",
+    "cordova",
+    "checks"
+  ],
+  "author": "Arne Schubert <atd.schubert@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atd-schubert/cordova-android-tutorial/issues"
+  },
+  "homepage": "https://github.com/atd-schubert/cordova-android-tutorial",
+  "dependencies": {
+    "winston": "^0.8.3"
+  }
+}
