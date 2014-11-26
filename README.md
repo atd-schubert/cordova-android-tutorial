@@ -16,7 +16,6 @@ You can check your pre-requirements with a node script bundled with this tutoria
 npm install
 
 node check.js
-
 ```
 
 ## Set up a project
@@ -26,14 +25,12 @@ Go to your workspace where you want to create the new project with your console 
 
 ```
 cordova create hello com.atd-schubert.hello HelloWorld
-
 ```
 
 The command is structured this way:
 
 ```
 cordova create {Directory to create} {Project identifier in reverse domain-style} {optional display-title}
-
 ```
 
 *Note: You have to specify a directory-name that should not already exists. The identifier have to be unique, otherwise it will overwrite other apps on your device. It is recommend to indicate the display-title immediately.*
