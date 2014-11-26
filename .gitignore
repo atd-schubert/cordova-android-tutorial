@@ -26,3 +26,7 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# MacOSX meta-files
+.DS_Store
+*.DS_Store
